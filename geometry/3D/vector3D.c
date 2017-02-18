@@ -1,4 +1,6 @@
 #include "../3D.h"
+#include <math.h>
+#include <stdio.h>
 vector3D vector3DMake(float i,float j,float k){
 	vector3D a = {i,j,k};
 	return a;

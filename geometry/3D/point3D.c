@@ -1,5 +1,6 @@
 #include "../3D.h"
-
+#include <math.h>
+#include <stdio.h>
 
 point3D point3DMake(float x,float y,float z){
 	point3D a = {x,y,z};

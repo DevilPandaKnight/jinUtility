@@ -1,4 +1,5 @@
 #include "../jinString.h"
+#include <string.h>
 char* getstring(){
 	vector *v = charVector();
 	char c;

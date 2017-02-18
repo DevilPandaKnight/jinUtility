@@ -7,7 +7,7 @@
 extern "C" {
 #endif
 
-#include "JinObject.h"
+#include "jinObject.h"
 #include "jinString.h"
 #include "dataType.h"
 #include "utility.h"
